@@ -14,7 +14,7 @@ public class StudentList {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String[] students = {"jasleen","taran","jassi","Manpreet","navleeen"};
+        String[] students = {"jasleen","taran","jassi","Manpreet","navleeen","sahil"};
         for (String i:students){
             System.out.println(i);
         }}
